@@ -1,0 +1,24 @@
+.title {
+    font-size: 1.5em;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    width: 500px;
+    border: black solid 1px;
+    background-color: pink;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
